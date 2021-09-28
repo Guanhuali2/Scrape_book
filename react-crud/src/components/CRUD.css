@@ -1,0 +1,14 @@
+Table, table, td{
+    border: 1px solid black;
+    font-size:10px;
+    overflow: auto;
+    word-break:break-word;
+    word-wrap: break-word;
+  }
+thead, tr, th{
+    border: 1px solid black;
+    font-size:10px;
+    overflow: auto;
+    word-break:keep-all;
+    word-wrap: break-word;
+  }
